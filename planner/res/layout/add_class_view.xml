@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+          android:id="@+id/name_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter your name:" />
+        />
+        />
+    
+    <EditText 
+          android:id="@+id/name_entry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        />
+        
+        />
+    
+    <TextView
+          android:id="@+id/period_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Class period:" />
+        />
+        />
+    
+    <EditText 
+        android:id="@+id/period_entry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+      
+        />
+    
+    <Button
+        android:id="@+id/classbut"
+        android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+  
+        android:text="Done" />
+
+</LinearLayout>

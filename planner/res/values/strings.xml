@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">planner</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="error">Error</string>
+    <string name="error_text">Please ensure all fields are filled</string>
+    <string name="accept">Ok</string>
+    <string name="due">Due: </string>
+
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    
+    <TextView
+        android:id="@+id/ass_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp"
+        android:paddingLeft="5dp"
+        android:text="Assignment Name" />
+
+    <EditText
+        android:id="@+id/ass_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         android:paddingTop="5dp"
+        android:ems="10" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/date_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:paddingTop="3dp"
+                 android:paddingLeft="5dp"
+         
+        android:text="Due Date" />
+
+    <DatePicker
+        android:id="@+id/due_date_picker"
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:calendarViewShown="false" />
+
+    <TextView
+        android:id="@+id/prior_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+                android:paddingLeft="5dp"
+        
+        android:text="Priority (Between 1 and 5)" />
+
+    <EditText
+        android:id="@+id/prior_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         android:paddingTop="5dp"
+        android:ems="10"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/add_ass_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         android:paddingTop="5dp"
+        android:text="Done" />
+
+</LinearLayout>

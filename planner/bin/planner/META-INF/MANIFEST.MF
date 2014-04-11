@@ -1,0 +1,75 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: A/ZK9d48XaUDGuEwG8KQJbYwCIw=
+
+Name: assets/classList.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/giftest.gif
+SHA1-Digest: UBK4L4mDeJCmuvHvKDXJubL8u1I=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: 6ztJbgFbUBwN9LLnxuLlRrITtHE=
+
+Name: res/layout/activity_item_detail.xml
+SHA1-Digest: yJLa9NM238a0/GuIOvClkYzDGFo=
+
+Name: res/drawable-ldpi/giftest.gif
+SHA1-Digest: UBK4L4mDeJCmuvHvKDXJubL8u1I=
+
+Name: assets/classList.ser
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: res/layout/add_class_view.xml
+SHA1-Digest: IzGeWsBHdiCPHbuQhqtEtxxG+OU=
+
+Name: resources.arsc
+SHA1-Digest: OnYksCswkzHooZPcIhKkx3XVi9w=
+
+Name: classes.dex
+SHA1-Digest: e8KXyXNrVgi6UqN5M0Va4djtEC4=
+
+Name: res/drawable-hdpi/giftest.gif
+SHA1-Digest: UBK4L4mDeJCmuvHvKDXJubL8u1I=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: TFgm/nAcDCNs6oVyKtLGZOWJtSk=
+
+Name: res/layout/add_assignment_view.xml
+SHA1-Digest: G/bOVQecz9uAqRZBRQsjiZ9WMp8=
+
+Name: res/layout/activity_item_list.xml
+SHA1-Digest: Igy4Cjp4EsAQRpW10a3xbxcfqBA=
+
+Name: res/drawable-mdpi/giftest.gif
+SHA1-Digest: UBK4L4mDeJCmuvHvKDXJubL8u1I=
+
+Name: res/layout/activity_item_twopane.xml
+SHA1-Digest: 7gdsNuNqnk0yQdboQ0q0sza+K0o=
+
+Name: res/drawable-xhdpi/giftest.gif
+SHA1-Digest: UBK4L4mDeJCmuvHvKDXJubL8u1I=
+
+Name: AndroidManifest.xml
+SHA1-Digest: rt5i106nDVeQZqSCC/07T5Jqn+4=
+
+Name: res/raw/cats.ser
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: HPtAPxbDOKV+2vTbKrYHhmxmZqU=
+
+Name: res/layout/test.xml
+SHA1-Digest: 9ixrvJ52bkBMoOVgnwKWKju0ipQ=
+
+Name: res/menu/actionbar_stuff.xml
+SHA1-Digest: VHcTS2iPXF5KZmPBTPLO8q6nfqY=
+
+Name: res/layout/fragment_item_detail.xml
+SHA1-Digest: I+yYGp+T9GacI/9JM7oqQoQPJL4=
+
+Name: res/drawable-xxhdpi/giftest.gif
+SHA1-Digest: UBK4L4mDeJCmuvHvKDXJubL8u1I=
+
